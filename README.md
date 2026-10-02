@@ -55,7 +55,7 @@ TrabalhoGrafo/
 
 ### **1. Clonar o repositório**
 ```bash
-git clone https://github.com/dvsxx11/TrabalhoGrafo.git
+git clone https://github.com/dsoares22/TrabalhoGrafo.git
 cd TrabalhoGrafo
 
 ```
